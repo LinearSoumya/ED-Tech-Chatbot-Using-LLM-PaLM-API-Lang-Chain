@@ -1,0 +1,2 @@
+LLM Chat-Bot for Technical Question Answering
+In this project, I created an LLM model using Langchain, Google PaLM API, and Hugging Face. It provides answers to queries. I utilized a generative AI model for scripting, embedding to transform the database, and prompting for accurate answers, aiding users in gaining knowledge of technical skills or courses. Additionally, I deployed this model on Streamlit for global access.
